@@ -6,7 +6,7 @@ pytest
 coverage
 numpy
 httpx
-scikit-learn
+scikit-learn==1.5.2
 joblib
 memoized-property
 gcsfs
